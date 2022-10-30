@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sayed-Mersal
-- 👀 I’m interested in ... Back end devoloping using python/Django framework
+- 👀 I’m interested in ... Back end devoloper using python/Django framework
 - 🌱 I’m currently learning ... Design Patterns
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
